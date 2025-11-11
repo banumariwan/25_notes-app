@@ -9,8 +9,6 @@ Add, edit, and delete notes with a clean, responsive UI, perfect for desktop and
 
 📱 Responsive, mobile-friendly design
 
-🎨 Modern Redmi-style UI
-
 ⚡ Fast and smooth frontend with React
 
 🔒 Backend powered by Django REST Framework
@@ -20,12 +18,12 @@ Layer	Technology
 Backend	Django, Django REST Framework
 Frontend	React, Axios
 Database	SQLite (default)
-Styling	CSS (Redmi-inspired theme)
+Styling	CSS
 Version Control	Git & GitHub
 ⚙️ Installation
 1️⃣ Clone the repository
 git clone https://github.com/banumariwan/RedmiProject.git
-cd RedmiProject
+
 
 2️⃣ Backend Setup (Django)
 cd backend
